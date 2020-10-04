@@ -1,0 +1,30 @@
+//charset
+@charset "utf-8";
+
+$bg-m_color:#fff5fe;
+
+$bg-s_color:#a3a5a8;
+
+$bg-s2_color:#f3ebf2;
+
+$bg-g_color:#cccccc;
+
+$bg-f_color:#706f6f;
+
+$bg-f2_color:#9f9ea1;
+
+$button-color:#ff7385;
+
+$font-m_color:#48bac2;
+
+$font-s_color:#414451;
+
+$font-g_color:#777577;
+
+$f-family-g: 'Noto Sans Japanese', sans-serif;
+
+$breakpoints: (
+  'lg': 'screen and (max-width: 1200px)',
+  'md': 'screen and (max-width: 896px)',
+  'sm': 'screen and (max-width: 480px)',
+) !default;
